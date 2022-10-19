@@ -2,7 +2,6 @@
 
 
 🔭 I'm currently working on PHP and JS
- 🌱 I’m currently learning PHP
 
 
 # Abdullajonov Boburjon
