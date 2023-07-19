@@ -16,4 +16,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=foxdevuz&show_icons=true" />
 </picture>
-(https://github-readme-stats.vercel.app/api/wakatime?username=foxdevuz)](https://github.com/foxdevuz/github-readme-stats)
