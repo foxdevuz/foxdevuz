@@ -9,3 +9,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/foxdevuz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foxdevuz" /></a></p><br><br>
