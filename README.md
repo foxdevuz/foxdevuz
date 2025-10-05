@@ -1,32 +1,33 @@
 <p align="center">
   <picture>
-    <img alt="Labs" width="99%" src="./asstes/header.webp">
+    <img alt="Explore my work" width="99%" src="./asstes/header.webp">
   </picture>
 </p>
 
-<table align="center" border="0" style="border:none;">
-    <tr>
-        <td align="center" width="50%">
-            <a href="https://abdullajonov.uz">
-                <img alt="Web Page" src="./asstes/web-page.webp" width="100%">
-            </a>
-        </td>
-        <td align="center" width="50%">
-            <a href="https://github.com/abdullajonov-lab">
-                <img alt="Explore my work" src="./asstes/labs.webp" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
-            <a href="https://t.me/webfoxuz">
-                <img alt="Telegram channel for updates" src="./asstes/telegram.webp" width="100%">
-            </a>
-        </td>
-        <td align="center" width="50%">
-            <a href="https://github-readme-streak-stats.herokuapp.com/?user=foxdevuz&theme=dark&hide_border=false">
-                <img alt="See my commit stats" src="./asstes/commit-stats.webp" width="100%">
-            </a>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://abdullajonov.uz">
+    <picture>
+      <img alt="Web Page" width="48%" src="./asstes/web-page.webp">
+    </picture>
+  </a>
+  <span style="margin: 0 8px;"></span>
+  <a href="https://github.com/abdullajonov-lab">
+    <picture>
+      <img alt="Explore my work" width="48%" src="./asstes/labs.webp">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/webfoxuz">
+    <picture>
+      <img alt="Telegram channel for updates" width="48%" src="./asstes/telegram.webp">
+    </picture>
+  </a>
+  <span style="margin: 0 8px;"></span>
+  <a href="https://floss.uz/about#team">
+    <picture>
+      <img alt="See my commit stats" width="48%" src="./asstes/commit-stats.webp">
+    </picture>
+  </a>
+</p>
