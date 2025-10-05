@@ -1,33 +1,32 @@
-<div align="center">
+<p align="center">
   <picture>
     <img alt="Labs" width="99%" src="./asstes/header.webp">
   </picture>
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; gap: 1%; margin-top: 10px;">
-  <a href="https://abdullajonov.uz" style="width: 48%;">
-    <picture>
-      <img alt="Web Page" width="100%" src="./asstes/web-page.webp">
-    </picture>
-  </a>
-
-  <a href="https://github.com/abdullajonov-lab" style="width: 48%;">
-    <picture>
-      <img alt="Explore my work" width="100%" src="./asstes/labs.webp">
-    </picture>
-  </a>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 1%; margin-top: 10px;">
-  <a href="https://t.me/webfoxuz" style="width: 48%;">
-    <picture>
-      <img alt="Telegram channel for updates" width="100%" src="./asstes/telegram.webp">
-    </picture>
-  </a>
-
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=foxdevuz&theme=dark&hide_border=false" style="width: 48%;">
-    <picture>
-      <img alt="See my commit stats" width="100%" src="./asstes/commit-stats.webp">
-    </picture>
-  </a>
-</div>
+<table align="center" border="0" style="border:none;">
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://abdullajonov.uz">
+                <img alt="Web Page" src="./asstes/web-page.webp" width="100%">
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <a href="https://github.com/abdullajonov-lab">
+                <img alt="Explore my work" src="./asstes/labs.webp" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://t.me/webfoxuz">
+                <img alt="Telegram channel for updates" src="./asstes/telegram.webp" width="100%">
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <a href="https://github-readme-streak-stats.herokuapp.com/?user=foxdevuz&theme=dark&hide_border=false">
+                <img alt="See my commit stats" src="./asstes/commit-stats.webp" width="100%">
+            </a>
+        </td>
+    </tr>
+</table>
