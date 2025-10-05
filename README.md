@@ -25,7 +25,7 @@
     </picture>
   </a>
   <span style="margin: 0 8px;"></span>
-  <a href="https://floss.uz/about#team">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=foxdevuz&theme=dark&hide_border=false">
     <picture>
       <img alt="See my commit stats" width="48%" src="./asstes/commit-stats.webp">
     </picture>
